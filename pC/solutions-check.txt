@@ -1,11 +1,11 @@
 correct1.cpp
 solution            compile[OK]
 checker             compile[OK]
-0-01                sol[OK]    0.014     check[OK]        1  [Correct]             
-1-01                sol[OK]    0.013     check[OK]        1  [Correct]             
-1-02                sol[OK]    0.013     check[OK]        1  [Correct]             
-2-01                sol[OK]    0.014     check[OK]        1  [Correct]             
-2-02                sol[OK]    0.014     check[OK]        1  [Correct]             
+0-01                sol[OK]    0.016     check[OK]        1  [Correct]             
+1-01                sol[OK]    0.016     check[OK]        1  [Correct]             
+1-02                sol[OK]    0.014     check[OK]        1  [Correct]             
+2-01                sol[OK]    0.015     check[OK]        1  [Correct]             
+2-02                sol[OK]    0.015     check[OK]        1  [Correct]             
 samples             [1/1 tests]    [Correct]             [0/0 pts]      [match with expected]             0-01
 simple              [2/2 tests]    [Correct]             [20/20 pts]    [match with expected]             1-01
 hacked              [2/2 tests]    [Correct]             [80/80 pts]    [match with expected]             2-01
@@ -18,11 +18,11 @@ Finished.
 correct2.cpp
 solution            compile[OK]
 checker             compile[OK]
-0-01                sol[OK]    0.013     check[OK]        1  [Correct]             
-1-01                sol[OK]    0.013     check[OK]        1  [Correct]             
-1-02                sol[OK]    0.014     check[OK]        1  [Correct]             
-2-01                sol[OK]    0.013     check[OK]        1  [Correct]             
-2-02                sol[OK]    0.013     check[OK]        1  [Correct]             
+0-01                sol[OK]    0.014     check[OK]        1  [Correct]             
+1-01                sol[OK]    0.016     check[OK]        1  [Correct]             
+1-02                sol[OK]    0.015     check[OK]        1  [Correct]             
+2-01                sol[OK]    0.015     check[OK]        1  [Correct]             
+2-02                sol[OK]    0.015     check[OK]        1  [Correct]             
 samples             [1/1 tests]    [Correct]             [0/0 pts]      [match with expected]             0-01
 simple              [2/2 tests]    [Correct]             [20/20 pts]    [match with expected]             1-01
 hacked              [2/2 tests]    [Correct]             [80/80 pts]    [match with expected]             2-01
