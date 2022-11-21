@@ -1,6 +1,6 @@
 correct1.cpp
 solution            compile[OK]
-0-01                sol[OK]    0.013     check[OK]        1  [Correct]             
+0-01                sol[OK]    0.012     check[OK]        1  [Correct]             
 1-01                sol[OK]    0.012     check[OK]        1  [Correct]             
 1-02                sol[OK]    0.012     check[OK]        1  [Correct]             
 2-01                sol[OK]    0.012     check[OK]        1  [Correct]             
@@ -20,7 +20,7 @@ solution            compile[OK]
 1-01                sol[OK]    0.012     check[OK]        1  [Correct]             
 1-02                sol[OK]    0.012     check[OK]        1  [Correct]             
 2-01                sol[OK]    0.012     check[OK]        0  [Wrong Answer]        
-2-02                sol[OK]    0.012     check[OK]        0  [Wrong Answer]        
+2-02                sol[OK]    0.013     check[OK]        0  [Wrong Answer]        
 samples             [1/1 tests]    [Correct]             [0/0 pts]      [match with expected]             0-01
 simple              [2/2 tests]    [Correct]             [20/20 pts]    [match with expected]             1-01
 hacked              [2/2 tests]    [Wrong Answer]        [0/80 pts]     [match with expected]             2-01
